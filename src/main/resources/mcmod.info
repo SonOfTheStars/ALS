@@ -1,0 +1,21 @@
+[{
+    "modid": "als",
+    "name": "Applied Logistics Systems",
+    "description": "ALS is a automation focussed mod, inspired by Logistics Pipes and AE2. It provides functionality for things like storage, sorting, stock keeping, automated and on-demand crafting as well as general automation around crafting.",
+    "version": "1.0.0.0",
+    "mcversion": "[1.12.2]",
+    "url": "https://github.com/SonOfTheStars/ALS",
+    "updateUrl": "",
+    "authorList": [ "SotS", "ALS Team" ],
+    "credits": "Contributors: https://github.com/SonOfTheStars/ALS/contributors.",
+    "logoFile": "",
+    "screenshots": [],
+    "requiredMods": [
+        "forge@[14.23.5.2768,)"
+    ],
+    "dependencies": [
+        "forge@[14.23.5.2768,)"
+    ],
+    "dependants": [],
+    "useDependencyInformation": true
+}]
